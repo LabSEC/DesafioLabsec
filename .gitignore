@@ -1,0 +1,9 @@
+*.o
+*\#*
+*.out
+*.swp
+*.pem
+*.der
+*.p12
+docs/DesafioLabsec
+docs/latex
