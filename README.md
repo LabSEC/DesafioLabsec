@@ -85,8 +85,8 @@ Before installing Libcryptosec, you need to install OpenSSL first. If you haven'
 [OpenSSL](#openssl) section.
 
 
-Download the [latest version](https://projetos.labsec.ufsc.br/libcryptosec)
-and check the [documentation page](https://projetos.labsec.ufsc.br/libcryptosec/doxygen/index.html).
+Download the [latest version](https://github.com/LabSEC/libcryptosec)
+and check the [documentation page](https://labsec.github.io/libcryptosec/).
 
 
 If you are running a 32bits OS, run the following commands:
